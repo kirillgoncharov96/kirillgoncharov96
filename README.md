@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-* ✉️  You can contact me at [kirillgoncharov29346@gmail.com](mailto:kirillgoncharov29346@gmail.com)
+* ✉️  You can contact me at :[![Telegram Badge](https://img.shields.io/badge/-Kirill-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Justlol1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirillgoncharov29346@gmail.com)
 
 ---
 ### Socials
