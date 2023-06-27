@@ -27,10 +27,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-https://skillicons.dev/icons?i=gulp,webpack&perline=4)](https://skillicons.dev)
 </p>
 
 ---
+
+## Github Stats  
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>
 <!--
 **kirillgoncharov96/kirillgoncharov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
