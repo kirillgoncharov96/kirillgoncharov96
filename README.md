@@ -3,6 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirill
 ==============================================================================================================================
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ---
 
 * ✉️  You can contact me at :[![Telegram Badge](https://img.shields.io/badge/-KirillGoncharov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Justlol1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirillgoncharov29346@gmail.com)
