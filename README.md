@@ -4,9 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 ---
-🔭 I am currently looking for a job as a Front End Developer
----
+
 * ✉️  You can contact me at [kirillgoncharov29346@gmail.com](mailto:kirillgoncharov29346@gmail.com)
+
+---
+🔭 I am currently looking for a job as a Front End Developer
+
 ---
 ### Skills
 
