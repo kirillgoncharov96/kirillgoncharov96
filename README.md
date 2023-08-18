@@ -48,12 +48,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![codewars](https://www.codewars.com/users/kirillgoncharov96/badges/large)
 
-## Github Stats  
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>
 
 <!--
 **kirillgoncharov96/kirillgoncharov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
