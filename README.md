@@ -48,6 +48,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![codewars](https://www.codewars.com/users/kirillgoncharov96/badges/large)
 
+###Github Stats
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&layout=compact&theme=dracula&hide_border=true" />
 
 <!--
