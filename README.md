@@ -54,6 +54,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🎓Completed courses: 
 
 <a href="https://www.udemy.com/certificate/UC-b2e73d28-1363-47c8-ad0c-391b6dc8aa33/">Web-developer</a>
+<a href="https://www.udemy.com/certificate/UC-005c9dc9-916c-4989-8e56-bc90f10dd36b/">JavaScript + React</a>
+
+
 <!--
 **kirillgoncharov96/kirillgoncharov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
