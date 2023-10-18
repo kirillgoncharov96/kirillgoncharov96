@@ -23,6 +23,7 @@ Hi! I'm Kirill 👋
 For the last three years I have worked as a design engineer, while simultaneously being interested in development.
 My functionality included processing a large amount of technical data, and the use of modern software systems for calculation and analysis of structures.
 I decided to go deeper into development, completed additional training and am now developing as a Frontend Developer.
+
 🔭 I am currently looking for a job as a Frontend Developer
 
 ---
