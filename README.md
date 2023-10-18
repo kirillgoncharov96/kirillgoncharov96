@@ -54,8 +54,12 @@ I decided to go deeper into development, completed additional training and am no
 
 ![codewars](https://www.codewars.com/users/kirillgoncharov96/badges/large)
 
+---
+
 ## Github Stats 
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&layout=compact&theme=dracula&hide_border=true" />
+
+---
 
 ## 🎓Completed courses: 
 
