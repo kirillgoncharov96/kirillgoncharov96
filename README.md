@@ -18,6 +18,11 @@ Hi! I'm Kirill 👋
 <p align="left"> <a href="https://www.facebook.com/kirill.goncharov.585" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kirillgoncharov96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ---
+### About me
+
+For the last three years I have worked as a design engineer, while simultaneously being interested in development.
+My functionality included processing a large amount of technical data, and the use of modern software systems for calculation and analysis of structures.
+I decided to go deeper into development, completed additional training and am now developing as a Frontend Developer.
 🔭 I am currently looking for a job as a Frontend Developer
 
 ---
