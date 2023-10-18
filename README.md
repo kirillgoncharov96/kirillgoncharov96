@@ -56,12 +56,12 @@ I decided to go deeper into development, completed additional training and am no
 
 ---
 
-## Github Stats 
+### Github Stats 
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&layout=compact&theme=dracula&hide_border=true" />
 
 ---
 
-## 🎓Completed courses: 
+### 🎓Completed courses: 
 
 <a href="https://www.udemy.com/certificate/UC-b2e73d28-1363-47c8-ad0c-391b6dc8aa33/">Web-developer</a>
 |
