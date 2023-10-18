@@ -13,12 +13,12 @@ Hi! I'm Kirill 👋
 * ✉️  You can contact me at :[![Telegram Badge](https://img.shields.io/badge/-KirillGoncharov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Justlol1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirillgoncharov29346@gmail.com)
 
 ---
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.facebook.com/kirill.goncharov.585" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kirillgoncharov96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ---
-### About me
+### About me:
 
 For the last three years I have worked as a design engineer, while simultaneously being interested in development.
 My functionality included processing a large amount of technical data, and the use of modern software systems for calculation and analysis of structures.
@@ -27,7 +27,7 @@ I decided to go deeper into development, completed additional training and am no
 🔭 I am currently looking for a job as a Frontend Developer
 
 ---
-### Skills
+### Skills:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -56,7 +56,7 @@ I decided to go deeper into development, completed additional training and am no
 
 ---
 
-### Github Stats 
+### Github Stats:
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillgoncharov96&layout=compact&theme=dracula&hide_border=true" />
 
 ---
