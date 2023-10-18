@@ -53,7 +53,7 @@ Hi! I'm Kirill 👋
 
 ## 🎓Completed courses: 
 
-<a href="https://www.udemy.com/certificate/UC-b2e73d28-1363-47c8-ad0c-391b6dc8aa33/">Web-developer</a>
+<a href="https://www.udemy.com/certificate/UC-b2e73d28-1363-47c8-ad0c-391b6dc8aa33/">Web-developer</a>,
 <a href="https://www.udemy.com/certificate/UC-005c9dc9-916c-4989-8e56-bc90f10dd36b/">JavaScript + React</a>
 
 
