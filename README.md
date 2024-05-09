@@ -66,6 +66,8 @@ I decided to go deeper into development, completed additional training and am no
 <a href="https://www.udemy.com/certificate/UC-b2e73d28-1363-47c8-ad0c-391b6dc8aa33/">Web-developer</a>
 |
 <a href="https://www.udemy.com/certificate/UC-005c9dc9-916c-4989-8e56-bc90f10dd36b/">JavaScript + React</a>
+|
+<a href="https://www.udemy.com/certificate/UC-58dc1f31-6b83-44a3-bf1b-9830e635ad44/">TypeScript</a>
 
 
 <!--
